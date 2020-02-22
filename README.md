@@ -15,4 +15,6 @@ Namun juga ada kekurangan, yakni : 1. Jika ingin menambahkan opsi lainnya, harus
 
 
 !Screenshoot Codingan :!
-![Alt Text](
+![Alt Text](https://github.com/lethanfadlil/Web-Design-Konversi-Suhu-/blob/master/Foto%20Hasil%20Web%20Design%20Pertama/kode1.PNG)
+![Alt Text](https://github.com/lethanfadlil/Web-Design-Konversi-Suhu-/blob/master/Foto%20Hasil%20Web%20Design%20Pertama/kode2.PNG)
+![Alt Text](https://github.com/lethanfadlil/Web-Design-Konversi-Suhu-/blob/master/Foto%20Hasil%20Web%20Design%20Pertama/kode3.PNG)
