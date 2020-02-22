@@ -10,7 +10,7 @@ Namun juga ada kekurangan, yakni : 1. Jika ingin menambahkan opsi lainnya, harus
                                    2. Susunan / penampilan websitenya terlihat tidak rapi / simple.
 
 !Screenshot Hasil dari codingan saya :!
-![Alt Text]()
+![Alt Text](https://github.com/lethanfadlil/Web-Design-Konversi-Suhu-/blob/master/Foto%20Hasil%20Web%20Design%20Pertama/1.PNG)
 ![Alt Text](https://github.com/lethanfadlil/Web-Design-Konversi-Suhu-/blob/master/Foto%20Hasil%20Web%20Design%20Pertama/2.PNG)
 
 
